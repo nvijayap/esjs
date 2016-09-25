@@ -23,7 +23,7 @@
 * Unable to start a new context ; Same issue as above ...
 
 ```
-$ curl -d "" 'dayrhebfmd002:8080/sjs/contexts/test-context?num-cpu-cores=4&memory-per-node=512m'
+$ curl -d "" 'host:8080/sjs/contexts/test-context?num-cpu-cores=4&memory-per-node=512m'
 {
   "status": "CONTEXT INIT ERROR",
   "result": {
