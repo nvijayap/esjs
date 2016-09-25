@@ -14,5 +14,7 @@
 
 * And, here's the issue faced as of now ...
 
-* Unable to submit job
+* Unable to submit job ; Here's the issue faced ...
+
+* "message": "java.lang.ClassCastException: interface akka.actor.Scheduler is not assignable from class akka.actor.LightArrayRevolverScheduler"
 
