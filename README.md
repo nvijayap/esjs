@@ -1,4 +1,4 @@
-# esjs (embedded sjs)
+# esjs (embedded sjs (spark job server))
 
 * This repo is based on https://github.com/spark-jobserver/spark-jobserver (SJS)
 
